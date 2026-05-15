@@ -10,5 +10,9 @@ Maintain:
 - natural wording
 - conversion focus
 
+Avoid:
+- robotic AI phrases
+- overly dramatic marketing language
+
 Website Copy:
-[paste content]
+[paste website section here]

@@ -1,0 +1,33 @@
+Act as a website copywriter for salon businesses.
+
+Generate service page copy for this salon.
+
+Business Name:
+LuxeGlow Salon & Spa
+
+Services Offered:
+- Hair Styling
+- Bridal Makeup
+- Hair Coloring
+- Skincare & Facials
+- Hair Spa & Keratin Treatment
+- Manicure & Pedicure
+
+Target Customers:
+Women aged 20–45 in Hyderabad.
+
+Tone:
+Modern, professional, customer-friendly.
+
+For each service include:
+- service name
+- short description
+- what’s included
+- customer benefit
+- why customers should choose this salon
+
+Requirements:
+- use website-ready language
+- avoid robotic AI wording
+- keep content persuasive and clear
+- make services sound premium but approachable

@@ -1,0 +1,42 @@
+Act as a professional website copywriter specializing in local salon businesses.
+
+Generate homepage website copy for the following salon.
+
+Business Name:
+LuxeGlow Salon & Spa
+
+Location:
+Road No. 12, Banjara Hills, Hyderabad, Telangana
+
+Target Audience:
+Women aged 20–45 looking for professional beauty, haircare, bridal makeup, and skincare services.
+
+Main Services:
+- Haircuts and Hair Styling
+- Hair Coloring
+- Bridal Makeup
+- Facials and Skincare
+- Manicure and Pedicure
+- Keratin and Hair Spa Treatments
+
+Unique Selling Point:
+Modern beauty treatments with personalized styling, hygienic care, experienced professionals, and a relaxing salon experience.
+
+Tone:
+Confident, warm, professional, and easy to understand.
+
+Requirements:
+- Write a strong customer-focused headline
+- Write a subheadline explaining benefits clearly
+- Create a short intro section
+- Use simple and natural language
+- Avoid generic AI phrases
+- Make the copy feel modern and trustworthy
+- Focus on customer transformation and confidence
+
+Output Format:
+1. Headline
+2. Subheadline
+3. Intro Paragraph
+4. Why Choose Us
+5. Customer Trust Section

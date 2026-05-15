@@ -1,13 +1,21 @@
 Generate high-converting CTA website copy for this salon.
 
 Business Name:
+LuxeGlow Salon & Spa
+
 Location:
+Road No. 12, Banjara Hills, Hyderabad
+
 Main Goal:
+Increase salon appointment bookings and bridal consultations.
+
 Tone:
+Confident, modern, persuasive, human.
 
 Create:
-- booking CTA
-- trust CTA
+- appointment booking CTA
+- consultation CTA
+- trust-building CTA
 - location CTA
 - urgency CTA
 
