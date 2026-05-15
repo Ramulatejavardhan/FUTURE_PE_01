@@ -1,0 +1,19 @@
+Act as a website copywriter for salon businesses.
+
+Generate service page copy for this salon.
+
+Business Name:
+Services Offered:
+Target Customers:
+Tone:
+
+For each service include:
+- service name
+- what’s included
+- customer benefit
+- why customers should choose this service
+
+Requirements:
+- use website-ready language
+- avoid robotic AI wording
+- keep content persuasive and clear
