@@ -1,0 +1,140 @@
+Act as a professional website copywriter specializing in local salon businesses.
+
+Generate complete, conversion-focused website copy for the following salon business.
+
+BUSINESS DETAILS
+
+Business Name:
+LuxeGlow Salon & Spa
+
+Business Type:
+Salon and Beauty Studio
+
+Location:
+Road No. 12, Banjara Hills, Hyderabad, Telangana
+
+Target Customers:
+Women aged 20–45 looking for professional beauty, haircare, bridal makeup, and skincare services.
+
+Main Services:
+- Haircuts and Hair Styling
+- Hair Coloring
+- Bridal Makeup
+- Facials and Skincare
+- Manicure and Pedicure
+- Keratin and Hair Spa Treatments
+
+Unique Selling Point:
+Modern beauty treatments with personalized styling, hygienic care, experienced professionals, and a relaxing salon experience.
+
+Brand Personality:
+Friendly, modern, stylish, trustworthy, and customer-focused.
+
+Tone:
+Confident, warm, professional, and easy to understand.
+
+OBJECTIVE
+
+Create complete website-ready copy that:
+- builds trust
+- highlights customer benefits
+- sounds natural and human
+- avoids generic AI wording
+- encourages customers to book appointments
+- feels suitable for a real premium local salon website
+
+TASKS
+
+1. HOMEPAGE COPY
+
+Generate:
+- Hero headline
+- Subheadline
+- Short introductory paragraph
+- Why Choose Us section
+- Customer trust section
+
+Requirements:
+- focus on customer transformation and confidence
+- avoid vague phrases like “high-quality service” or “one-stop solution”
+- use emotionally engaging but simple language
+- make it sound realistic and local
+
+2. SERVICES PAGE CONTENT
+
+Create website copy for these services:
+- Hair Styling
+- Bridal Makeup
+- Hair Coloring
+- Skincare & Facials
+- Hair Spa & Keratin Treatment
+
+For each service include:
+- short description
+- what’s included
+- customer benefit
+- why customers should choose this salon
+
+Requirements:
+- keep descriptions website-ready
+- make services sound premium but approachable
+- avoid robotic wording
+
+3. CTA SECTIONS
+
+Generate:
+- Appointment booking CTA
+- Consultation CTA
+- Trust-building CTA
+- Location-based CTA
+- Urgency CTA
+
+Requirements:
+- encourage immediate action
+- sound natural and persuasive
+- avoid spammy marketing language
+
+4. TONE ADAPTATION
+
+Rewrite ONE homepage section in:
+- Friendly tone
+- Professional tone
+- Confident modern tone
+
+5. SEO KEYWORDS
+
+Generate:
+- 10 local SEO keywords related to salon services in Hyderabad
+
+6. BONUS SECTION
+
+Generate:
+- 3 customer testimonials
+- FAQ section with 5 common salon questions
+- Instagram bio for the salon
+- Google Business description
+
+OUTPUT FORMAT
+
+Use proper headings and formatting.
+
+Structure response as:
+
+1. Homepage Copy
+2. Services Page
+3. CTA Sections
+4. Tone Adaptation
+5. SEO Keywords
+6. Testimonials
+7. FAQ
+8. Instagram Bio
+9. Google Business Description
+
+IMPORTANT RULES
+
+- Do not sound robotic
+- Do not overuse marketing buzzwords.
+- Keep language realistic and customer-focused.
+- Make content feel publish-ready for a real salon business website.
+- Use modern website copywriting style.
+- Keep readability simple and clear.
